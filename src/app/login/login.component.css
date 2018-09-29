@@ -1,0 +1,21 @@
+#login_form
+{
+    background: #F0F0E9;
+    padding: 40px;
+    max-width: 350px;
+    margin: 0 auto;
+    position: relative;
+}
+#login_form button
+{
+    display: inline-block !important;
+}
+#login_form button:hover
+{
+    background: #fff !important;
+}
+#login_form i
+{
+    color: #FE980F;
+    font-size: 40px;
+}
